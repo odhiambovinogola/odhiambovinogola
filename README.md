@@ -2,7 +2,7 @@
 
 I'm a full-stack learner based in **Nairobi, Kenya** — working through [The Odin Project](https://www.theodinproject.com) while training to become a Computer Studies instructor at the Kenya School of TVET.
 
-I'm also joining [AI Safari](https://powerlearnprojectafrica.org/programs/ai-safari) — a Power Learn Project initiative working to decentralize AI skills across Africa. Starting May 4th.
+I'm also part of [AI Safari](https://powerlearnprojectafrica.org/programs/ai-safari) — a Power Learn Project initiative working to decentralize AI skills across Africa.
 
 Long-term, I want to be at the intersection of **development and teaching**. I think the people who can build *and* explain are the most useful in any room.
 
@@ -10,10 +10,10 @@ Long-term, I want to be at the intersection of **development and teaching**. I t
 
 ## 🚧 Currently
 
-- 📚 84% through JavaScript Foundations @ The Odin Project
-- 🎓 Completing my Diploma in ICT @ Koshin Technical Training Institute — graduating May 29, 2026
+- 📚 Deep into JavaScript Foundations @ The Odin Project
+- 🎓 Completed my Diploma in ICT @ Koshin Technical Training Institute — graduation ceremony May 29, 2026
 - 📖 Studying to become a Computer Studies Trainer @ Kenya School of TVET (graduating Dec 2027)
-- 🤖 Starting AI Safari by Power Learn Project — May 4, 2026
+- 🤖 Working through AI Safari by Power Learn Project
 - 🌍 Learning in public, one commit at a time
 
 ---
