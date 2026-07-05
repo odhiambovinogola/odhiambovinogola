@@ -11,8 +11,8 @@ Long-term, I want to be at the intersection of **development and teaching**. I t
 ## 🚧 Currently
 
 - 📚 Deep into JavaScript Foundations @ The Odin Project
-- 🎓 Completed my Diploma in ICT @ Koshin Technical Training Institute — graduation ceremony May 29, 2026
-- 📖 Studying to become a Computer Studies Trainer @ Kenya School of TVET (graduating Dec 2027)
+- 🎓 Completed my Diploma in ICT @ Koshin Technical Training Institute
+- 📖 Studying to become a Computer Studies Trainer @ Kenya School of TVET
 - 🤖 Working through AI Safari by Power Learn Project
 - 🌍 Learning in public, one commit at a time
 
